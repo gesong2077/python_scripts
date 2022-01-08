@@ -9,4 +9,6 @@
 
     [sudo] apt install stress
 
+    [sudo] pip3 install psutil
+    
     [sudo] python3 stresstest.py
