@@ -13,6 +13,7 @@ Linux压力测试工具，个人用于树莓派超频后测试稳定性。
 sudo apt update
 sudo apt upgrade -y
 sudo apt install stress
+sudo pip3 install pyyaml
 sudo pip3 install psutil
 ```
 ### 运行
