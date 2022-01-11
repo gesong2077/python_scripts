@@ -1,0 +1,8 @@
+# 压力测试时间
+Duration: '10m'
+
+# 最高频率-当前频率，小于这个值视作误差，每次高于这个值视作降频一次
+MarginOfFreqError: 0.02
+
+# 允许降频出现的次数，测试完降频次数高于这个值视作出现降频
+AllowedThrottledTimes: 5
